@@ -14,9 +14,9 @@ I am also an open-source enthusiast and maintainer.</p>
 ## About me
 - 🌱 I’m currently learning Data Structures, Algorithms and Mern stack.
 - 👯 I’m looking to collaborate on OpenSource Projects
-- 🤔 All of my projects and details are available at[ https://gholve-vishal.netlify.app/](https://gholve-vishal.netlify.app/)
+- 🤔 All of my projects and details are available at
 - 💬 Ask me about <b> HTML, JavaScript, TypeScript, React, Redux, CSS.</b>
-- 📫 How to reach me *vishalgholve999@gmail.com*
+- 📫 How to reach me *mukeshsn1972000@gmail.com*
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1jzQRqFmutFNNH4azdo5Q7FXlOiXxzeTT/view?usp=sharing">Here</a>
 - ⚡ Fun fact *Nothing Is Funny*
 
@@ -50,8 +50,8 @@ I am also an open-source enthusiast and maintainer.</p>
 ## Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishal-gholve-444b9122b/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-  <a title="vishalgholve999@gmail.com" href="mailto:vishalgholve999@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
+  <a href="https://www.linkedin.com/in/mukesh-naikwade-b94a6b21b/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+  <a title="mukeshsn1972000@gmail.com" href="mailto:mukeshsn1972000@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
  
 
 </p>
@@ -61,13 +61,13 @@ I am also an open-source enthusiast and maintainer.</p>
 
   <summary>:zap: GitHub Stats</summary>
   <br>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vishal1106&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mukesh7875&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox" />
 
 
 
   <summary>:zap: Most Used Languages</summary>
   <br>
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal1106&langs_count=10&theme=gruvbox&layout=compact" />
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukesh7875&langs_count=10&theme=gruvbox&layout=compact" />
   <br>
   <i>NOTE: It's just a GitHub metric to determine which languages have the most code on GitHub.</i>
 
@@ -75,6 +75,6 @@ I am also an open-source enthusiast and maintainer.</p>
 
   <summary>:zap: Github Streak Stats</summary>
   <br>
-  <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1106&theme=gruvbox" />
+  <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukesh7875&theme=gruvbox" />
 
 <br><br>
