@@ -1,13 +1,13 @@
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
-<h1 align="center">Hi 👋, I'm Vishal Gholve</h1>
+<h1 align="center">Hi 👋, I'm Mukesh Naikwade</h1>
 
 
-<h3>A Passionate Full-Stack web developer from india</h3>
+<h3>A Passionate front end web developer from india</h3>
 <p>My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care of architecture and code quality.<br>
 I am also an open-source enthusiast and maintainer.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal1106&label=Profile%20views&color=0e75b6&style=flat" alt="vishalgholve" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal1106" alt="vishal-gholve" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal1106&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshnaikwade" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mukesh7875" alt="mukesh-naikwade" /></a> </p>
 
 
 
